@@ -14,7 +14,7 @@ const data =[
         image:"/slide222.png",
     },
     {
-        id:1,
+        id:3,
         title:"The best pizza to share with your family",
         image:"/slide33.png",
     },
@@ -44,5 +44,6 @@ const Slider = () => {
     </div>
   )
 }
+
 
 export default Slider
